@@ -1,0 +1,1 @@
+## data class, enum class, sealed class
